@@ -5,8 +5,21 @@ public class Main {
 
 	public static void main(String[] args) throws InterruptedException{
 
+		Rastreador rastreador = new Rastreador();
+		PasswordCracker pc = new PasswordCracker("137fc6107cc60cc069a8a245b2933df3b6d80d0d0bd02a633e609918adcf2e06", "xy", "SHA-256", 1, 3, rastreador);
+		PasswordCracker pc2 = new PasswordCracker("137fc6107cc60cc069a8a245b2933df3b6d80d0d0bd02a633e609918adcf2e06", "xy", "SHA-256", 4, 7, rastreador);
 
-		PasswordCracker pc = new PasswordCracker("c325da0495aed5eaef96c4e1f9ae96fff4c0d941a57d0e263f11ff0e140982af", "xy", "SHA-256");
-		pc.searchAllPossibleHashes(7);
+		long startTime = System.currentTimeMillis();
+
+		pc.start();
+		pc2.start();
+
+		pc.join();
+		pc2.join();
+
+		long endTime = System.currentTimeMillis();
+
+		System.out.println("Tiempo de ejecucion: " + (endTime - startTime) + " ms");
+		System.out.println("Tiempo de ejecucion: " + (endTime - startTime)/1000 + " s");
 	}
 }
