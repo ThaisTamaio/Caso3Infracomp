@@ -49,7 +49,6 @@ public class PasswordCracker extends Thread{
 				sb.append(String.format("%02x", b));
 			}
 			if (sb.toString().equals(hash)) {
-				System.out.println(pPrefix);
 				rastreador.setPassword(pPrefix);
 				found = true;
 			}
