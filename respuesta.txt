@@ -1,0 +1,384 @@
+Longitud: 1, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 3 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 198 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 15 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 368 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 13 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 20 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 2 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 24 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 4 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 0 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 20 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 4 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input a
+La contraseña encontrada fue: a
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 1, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input z
+La contraseña encontrada fue: z
+Tiempo de ejecucion: 3 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 2 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 43 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 5 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 62 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 5 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 60 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 9 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 43 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 20 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 29 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 2 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 28 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input aa
+La contraseña encontrada fue: aa
+Tiempo de ejecucion: 3 ms
+Tiempo de ejecucion: 0 s
+Longitud: 2, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input zz
+La contraseña encontrada fue: zz
+Tiempo de ejecucion: 29 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 13 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 294 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 18 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 308 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 27 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 498 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 21 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 562 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 10 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 262 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 11 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 277 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 20 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 494 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input aaa
+La contraseña encontrada fue: aaa
+Tiempo de ejecucion: 24 ms
+Tiempo de ejecucion: 0 s
+Longitud: 3, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input zzz
+La contraseña encontrada fue: zzz
+Tiempo de ejecucion: 528 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 259 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 6797 ms
+Tiempo de ejecucion: 6 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 6493 ms
+Tiempo de ejecucion: 6 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 493 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 13126 ms
+Tiempo de ejecucion: 13 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 12617 ms
+Tiempo de ejecucion: 12 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 257 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 6725 ms
+Tiempo de ejecucion: 6 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 1 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 6465 ms
+Tiempo de ejecucion: 6 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 493 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 13054 ms
+Tiempo de ejecucion: 13 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input aaaa
+La contraseña encontrada fue: aaaa
+Tiempo de ejecucion: 0 ms
+Tiempo de ejecucion: 0 s
+Longitud: 4, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input zzzz
+La contraseña encontrada fue: zzzz
+Tiempo de ejecucion: 12581 ms
+Tiempo de ejecucion: 12 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 6716 ms
+Tiempo de ejecucion: 6 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 170022 ms
+Tiempo de ejecucion: 170 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 6458 ms
+Tiempo de ejecucion: 6 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 169618 ms
+Tiempo de ejecucion: 169 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 13043 ms
+Tiempo de ejecucion: 13 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 330893 ms
+Tiempo de ejecucion: 330 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 12581 ms
+Tiempo de ejecucion: 12 s
+Longitud: 5, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 330893 ms
+Tiempo de ejecucion: 330 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 6709 ms
+Tiempo de ejecucion: 6 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 170472 ms
+Tiempo de ejecucion: 170 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 6473 ms
+Tiempo de ejecucion: 6 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 169947 ms
+Tiempo de ejecucion: 169 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 13141 ms
+Tiempo de ejecucion: 13 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 331239 ms
+Tiempo de ejecucion: 331 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input aaaaa
+La contraseña encontrada fue: aaaaa
+Tiempo de ejecucion: 12625 ms
+Tiempo de ejecucion: 12 s
+Longitud: 5, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input zzzzz
+La contraseña encontrada fue: zzzzz
+Tiempo de ejecucion: 330153 ms
+Tiempo de ejecucion: 330 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 169909 ms
+Tiempo de ejecucion: 169 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-256, Threads: 1 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 4524533 ms
+Tiempo de ejecucion: 4524 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 169705 ms
+Tiempo de ejecucion: 169 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-256, Threads: 2 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 4510692 ms
+Tiempo de ejecucion: 4510 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 329585 ms
+Tiempo de ejecucion: 329 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-512, Threads: 1 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 8811935 ms
+Tiempo de ejecucion: 8811 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 329362 ms
+Tiempo de ejecucion: 329 s
+Longitud: 6, Sal: ab, Algoritmo: SHA-512, Threads: 2 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 8814444 ms
+Tiempo de ejecucion: 8814 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 170164 ms
+Tiempo de ejecucion: 170 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-256, Threads: 1 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 4516376 ms
+Tiempo de ejecucion: 4516 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 169768 ms
+Tiempo de ejecucion: 169 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-256, Threads: 2 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 4537640 ms
+Tiempo de ejecucion: 4537 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 331581 ms
+Tiempo de ejecucion: 331 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-512, Threads: 1 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 8851755 ms
+Tiempo de ejecucion: 8851 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input aaaaaa
+La contraseña encontrada fue: aaaaaa
+Tiempo de ejecucion: 328565 ms
+Tiempo de ejecucion: 328 s
+Longitud: 6, Sal: yz, Algoritmo: SHA-512, Threads: 2 Input zzzzzz
+La contraseña encontrada fue: zzzzzz
+Tiempo de ejecucion: 8801532 ms
+Tiempo de ejecucion: 8801 s
